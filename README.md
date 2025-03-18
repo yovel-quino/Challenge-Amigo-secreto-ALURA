@@ -31,7 +31,7 @@ challenges/
 
 1. Clona el repositorio:
 ```bash
-git clone [url-del-repositorio]
+git clone https://github.com/yovel-quino/Challenge-Amigo-secreto-ALURA.git
 ```
 
 2. Abre `index.html` en tu navegador o usa un servidor local.
